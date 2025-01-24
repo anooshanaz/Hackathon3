@@ -16,7 +16,7 @@ Day 5:Testing and Backend Refinement: Key Achievements:  Test Api keys with t
 
 Day 6:Deployment Preparation and Staging Environment Setup: Key Achievements:  First run the command npm run build to check there is no bug and error.  Second secure key in .env file.  Third create a GitHub repository.  Forth deploy project in vercel
 
-GitHub link 
+GitHub link https://github.com/anooshanaz/Hackathon3.git 
 Vercel Link https://hackathon3-eta.vercel.app/
 
 Anoosha Naz(00064668)
